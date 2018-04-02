@@ -1,4 +1,4 @@
-public class Main {
+public class TestPrint {
 	public static void main(String[] args) {
 		Context.language = Language.FRENCH;
 		
